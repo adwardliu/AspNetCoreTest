@@ -1,0 +1,32 @@
+{
+  "version": "1.0.0-*",
+  "buildOptions": {
+    "debugType": "portable",
+    "emitEntryPoint": true,
+    "preserveCompilationContext": true
+  },
+  "dependencies": {
+     "Microsoft.AspNetCore.Mvc":"1.0.0",
+     "Microsoft.AspNetCore.Razor.Tools": {
+      "version": "1.0.0-preview2-final",
+      "type": "build"
+    },
+     "Microsoft.AspNetCore.Server.Kestrel":"1.0.0",
+     "Microsoft.Extensions.Logging": "1.0.0",
+     "Microsoft.Extensions.Logging.Console": "1.0.0",
+     "Microsoft.Extensions.Logging.Debug": "1.0.0",
+     "Microsoft.Extensions.Logging.Filter": "1.0.0",
+     "NLog.Extensions.Logging": "1.0.0-rtm-alpha4"
+  },
+  "frameworks": {
+    "netcoreapp1.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "type": "platform",
+          "version": "1.0.0"
+        }
+      },
+      "imports": "dnxcore50"
+    }
+  }
+}
