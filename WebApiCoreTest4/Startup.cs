@@ -17,13 +17,17 @@ namespace ConsoleApplication
             //     {"Microsoft", LogLevel.Trace},
             //     {"ConsoleApplication",LogLevel.Debug}
             // }).AddConsole();
-            // loggerFactory.AddConsole();
-            // loggerFactory.AddDebug();
+            loggerFactory.AddConsole();
+            loggerFactory.AddDebug();
             loggerFactory.AddNLog();
-            app.Run(async context => {
-                await context.Response.WriteAsync("Hello World!");
-            });
-            //app.UseMvc();
+            // app.Run(async context => {
+            //     await context.Response.WriteAsync("Hello World!");
+            // });
+            
+            // app.UseMiddleware<HelloworldMiddleware>();
+            // app.UseMiddleware<HelloworldTooMiddleware>();
+            app.UseVisitLogger();
+            app.UseMvc();
         }
     }
 }

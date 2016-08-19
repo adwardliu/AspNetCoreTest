@@ -1,0 +1,321 @@
+2016-08-19 16:16:37.0688|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting starting 
+2016-08-19 16:16:37.2237|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting started 
+2016-08-19 16:16:37.4608|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTD" started. 
+2016-08-19 16:16:37.4608|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTC" started. 
+2016-08-19 16:16:37.6217|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:8888/   
+2016-08-19 16:16:37.7137|Microsoft.AspNetCore.Server.Kestrel|ERROR|Connection id "0HKU814I0QMTC": An unhandled exception was thrown by the application. Status code cannot be set, response has already started.
+2016-08-19 16:16:37.7247|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 125.015ms 200  
+2016-08-19 16:16:37.7247|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTC" disconnecting. 
+2016-08-19 16:16:37.7247|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTC" sending FIN. 
+2016-08-19 16:16:37.7358|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTC" sent FIN with status "0". 
+2016-08-19 16:16:37.7358|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTC" stopped. 
+2016-08-19 16:16:37.8547|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:8888/   
+2016-08-19 16:16:37.8848|Microsoft.AspNetCore.Server.Kestrel|ERROR|Connection id "0HKU814I0QMTD": An unhandled exception was thrown by the application. Status code cannot be set, response has already started.
+2016-08-19 16:16:37.8848|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 31.1565ms 200  
+2016-08-19 16:16:37.8848|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTD" disconnecting. 
+2016-08-19 16:16:37.8848|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTD" sending FIN. 
+2016-08-19 16:16:37.8848|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTD" sent FIN with status "0". 
+2016-08-19 16:16:37.8848|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTD" stopped. 
+2016-08-19 16:16:42.8910|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTE" started. 
+2016-08-19 16:16:42.8920|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:8888/   
+2016-08-19 16:16:42.9280|Microsoft.AspNetCore.Server.Kestrel|ERROR|Connection id "0HKU814I0QMTE": An unhandled exception was thrown by the application. Status code cannot be set, response has already started.
+2016-08-19 16:16:42.9280|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 36.8627ms 200  
+2016-08-19 16:16:42.9280|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTE" disconnecting. 
+2016-08-19 16:16:42.9280|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTE" sending FIN. 
+2016-08-19 16:16:42.9280|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTE" sent FIN with status "0". 
+2016-08-19 16:16:42.9280|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTE" stopped. 
+2016-08-19 16:16:59.2597|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTF" started. 
+2016-08-19 16:16:59.2597|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTG" started. 
+2016-08-19 16:16:59.2597|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:8888/   
+2016-08-19 16:16:59.2927|Microsoft.AspNetCore.Server.Kestrel|ERROR|Connection id "0HKU814I0QMTF": An unhandled exception was thrown by the application. Status code cannot be set, response has already started.
+2016-08-19 16:16:59.2927|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 28.3938ms 200  
+2016-08-19 16:16:59.2927|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTF" disconnecting. 
+2016-08-19 16:16:59.2927|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTF" sending FIN. 
+2016-08-19 16:16:59.2927|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTF" sent FIN with status "0". 
+2016-08-19 16:16:59.2927|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTF" stopped. 
+2016-08-19 16:17:02.6860|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTH" started. 
+2016-08-19 16:17:02.6860|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:8888/   
+2016-08-19 16:17:02.7150|Microsoft.AspNetCore.Server.Kestrel|ERROR|Connection id "0HKU814I0QMTG": An unhandled exception was thrown by the application. Status code cannot be set, response has already started.
+2016-08-19 16:17:02.7150|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 27.5245ms 200  
+2016-08-19 16:17:02.7150|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTG" disconnecting. 
+2016-08-19 16:17:02.7150|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTG" sending FIN. 
+2016-08-19 16:17:02.7150|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTG" sent FIN with status "0". 
+2016-08-19 16:17:02.7150|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTG" stopped. 
+2016-08-19 16:17:03.3821|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTI" started. 
+2016-08-19 16:17:03.3821|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:8888/   
+2016-08-19 16:17:03.4191|Microsoft.AspNetCore.Server.Kestrel|ERROR|Connection id "0HKU814I0QMTH": An unhandled exception was thrown by the application. Status code cannot be set, response has already started.
+2016-08-19 16:17:03.4191|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 32.6956ms 200  
+2016-08-19 16:17:03.4191|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTH" disconnecting. 
+2016-08-19 16:17:03.4191|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTH" sending FIN. 
+2016-08-19 16:17:03.4191|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTH" sent FIN with status "0". 
+2016-08-19 16:17:03.4191|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTH" stopped. 
+2016-08-19 16:17:28.2920|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTI" received FIN. 
+2016-08-19 16:17:28.2920|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTI" disconnecting. 
+2016-08-19 16:17:28.2920|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTI" sending FIN. 
+2016-08-19 16:17:28.2920|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTI" sent FIN with status "0". 
+2016-08-19 16:17:28.2920|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTI" stopped. 
+2016-08-19 16:17:33.4422|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTJ" started. 
+2016-08-19 16:17:33.4422|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:8888/   
+2016-08-19 16:17:33.4822|Microsoft.AspNetCore.Server.Kestrel|ERROR|Connection id "0HKU814I0QMTJ": An unhandled exception was thrown by the application. Status code cannot be set, response has already started.
+2016-08-19 16:17:33.4822|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 38.9672ms 200  
+2016-08-19 16:17:33.4822|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTJ" disconnecting. 
+2016-08-19 16:17:33.4822|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTJ" sending FIN. 
+2016-08-19 16:17:33.4822|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTJ" sent FIN with status "0". 
+2016-08-19 16:17:33.4822|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTJ" stopped. 
+2016-08-19 16:17:45.3356|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTK" started. 
+2016-08-19 16:17:45.3356|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTL" started. 
+2016-08-19 16:17:45.3356|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:8888/api/user/1   
+2016-08-19 16:17:45.3716|Microsoft.AspNetCore.Server.Kestrel|ERROR|Connection id "0HKU814I0QMTK": An unhandled exception was thrown by the application. Status code cannot be set, response has already started.
+2016-08-19 16:17:45.3716|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 29.1498ms 200  
+2016-08-19 16:17:45.3716|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTK" disconnecting. 
+2016-08-19 16:17:45.3716|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTK" sending FIN. 
+2016-08-19 16:17:45.3716|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTK" sent FIN with status "0". 
+2016-08-19 16:17:45.3716|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTK" stopped. 
+2016-08-19 16:17:47.1899|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:8888/api/user/1   
+2016-08-19 16:17:47.2179|Microsoft.AspNetCore.Server.Kestrel|ERROR|Connection id "0HKU814I0QMTL": An unhandled exception was thrown by the application. Status code cannot be set, response has already started.
+2016-08-19 16:17:47.2179|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 27.7378ms 200  
+2016-08-19 16:17:47.2179|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTL" disconnecting. 
+2016-08-19 16:17:47.2179|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTL" sending FIN. 
+2016-08-19 16:17:47.2179|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTL" sent FIN with status "0". 
+2016-08-19 16:17:47.2199|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTL" stopped. 
+2016-08-19 16:17:47.8257|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTM" started. 
+2016-08-19 16:17:47.8257|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:8888/api/user/1   
+2016-08-19 16:17:47.8567|Microsoft.AspNetCore.Server.Kestrel|ERROR|Connection id "0HKU814I0QMTM": An unhandled exception was thrown by the application. Status code cannot be set, response has already started.
+2016-08-19 16:17:47.8567|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 31.3016ms 200  
+2016-08-19 16:17:47.8567|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTM" disconnecting. 
+2016-08-19 16:17:47.8567|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTM" sending FIN. 
+2016-08-19 16:17:47.8567|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTM" sent FIN with status "0". 
+2016-08-19 16:17:47.8567|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTM" stopped. 
+2016-08-19 16:17:51.1509|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTN" started. 
+2016-08-19 16:17:51.1509|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:8888/   
+2016-08-19 16:17:51.1509|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTN" received FIN. 
+2016-08-19 16:17:51.1830|Microsoft.AspNetCore.Server.Kestrel|ERROR|Connection id "0HKU814I0QMTN": An unhandled exception was thrown by the application. Status code cannot be set, response has already started.
+2016-08-19 16:17:51.1830|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 32.0879ms 200  
+2016-08-19 16:17:51.1830|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTN" disconnecting. 
+2016-08-19 16:17:51.1830|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTN" sending FIN. 
+2016-08-19 16:17:51.1830|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTN" sent FIN with status "0". 
+2016-08-19 16:17:51.1830|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU814I0QMTN" stopped. 
+2016-08-19 16:19:33.9687|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting starting 
+2016-08-19 16:19:34.1227|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting started 
+2016-08-19 16:19:34.3267|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8166NHTA8" started. 
+2016-08-19 16:19:34.3267|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8166NHTA9" started. 
+2016-08-19 16:19:34.4857|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:8888/   
+2016-08-19 16:19:34.5707|Microsoft.AspNetCore.Server.Kestrel|ERROR|Connection id "0HKU8166NHTA8": An unhandled exception was thrown by the application. Status code cannot be set, response has already started.
+2016-08-19 16:19:34.5707|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 113.0051ms 200  
+2016-08-19 16:19:34.5857|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8166NHTA8" disconnecting. 
+2016-08-19 16:19:34.5857|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8166NHTA8" sending FIN. 
+2016-08-19 16:19:34.5857|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8166NHTA8" sent FIN with status "0". 
+2016-08-19 16:19:34.5947|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8166NHTA8" stopped. 
+2016-08-19 16:19:34.7127|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:8888/   
+2016-08-19 16:19:34.7417|Microsoft.AspNetCore.Server.Kestrel|ERROR|Connection id "0HKU8166NHTA9": An unhandled exception was thrown by the application. Status code cannot be set, response has already started.
+2016-08-19 16:19:34.7417|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 29.671ms 200  
+2016-08-19 16:19:34.7417|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8166NHTA9" disconnecting. 
+2016-08-19 16:19:34.7417|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8166NHTA9" sending FIN. 
+2016-08-19 16:19:34.7417|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8166NHTA9" sent FIN with status "0". 
+2016-08-19 16:19:34.7417|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8166NHTA9" stopped. 
+2016-08-19 16:19:39.7477|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8166NHTAA" started. 
+2016-08-19 16:19:39.7477|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:8888/   
+2016-08-19 16:19:39.7797|Microsoft.AspNetCore.Server.Kestrel|ERROR|Connection id "0HKU8166NHTAA": An unhandled exception was thrown by the application. Status code cannot be set, response has already started.
+2016-08-19 16:19:39.7797|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 31.4046ms 200  
+2016-08-19 16:19:39.7797|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8166NHTAA" disconnecting. 
+2016-08-19 16:19:39.7797|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8166NHTAA" sending FIN. 
+2016-08-19 16:19:39.7827|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8166NHTAA" sent FIN with status "0". 
+2016-08-19 16:19:39.7827|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8166NHTAA" stopped. 
+2016-08-19 16:20:22.6569|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8166NHTAB" started. 
+2016-08-19 16:20:22.6569|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:8888/   
+2016-08-19 16:20:22.6909|Microsoft.AspNetCore.Server.Kestrel|ERROR|Connection id "0HKU8166NHTAB": An unhandled exception was thrown by the application. Status code cannot be set, response has already started.
+2016-08-19 16:20:22.6909|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 30.8308ms 200  
+2016-08-19 16:20:22.6909|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8166NHTAB" disconnecting. 
+2016-08-19 16:20:22.6909|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8166NHTAB" sending FIN. 
+2016-08-19 16:20:22.6909|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8166NHTAB" sent FIN with status "0". 
+2016-08-19 16:20:22.6909|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8166NHTAB" stopped. 
+2016-08-19 16:21:26.7813|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting starting 
+2016-08-19 16:21:26.9555|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting started 
+2016-08-19 16:21:27.1485|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8178BGM93" started. 
+2016-08-19 16:21:27.1485|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8178BGM92" started. 
+2016-08-19 16:21:27.2975|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:8888/   
+2016-08-19 16:21:27.5745|Microsoft.AspNetCore.Builder.RouterMiddleware|DEBUG|Request did not match any routes. 
+2016-08-19 16:21:27.6145|Microsoft.AspNetCore.Server.Kestrel|ERROR|Connection id "0HKU8178BGM92": An unhandled exception was thrown by the application. Status code cannot be set, response has already started.
+2016-08-19 16:21:27.6145|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 348.3526ms 200  
+2016-08-19 16:21:27.6305|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8178BGM92" disconnecting. 
+2016-08-19 16:21:27.6305|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8178BGM92" sending FIN. 
+2016-08-19 16:21:27.6305|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8178BGM92" sent FIN with status "0". 
+2016-08-19 16:21:27.6305|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8178BGM92" stopped. 
+2016-08-19 16:21:27.7585|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:8888/   
+2016-08-19 16:21:27.7585|Microsoft.AspNetCore.Builder.RouterMiddleware|DEBUG|Request did not match any routes. 
+2016-08-19 16:21:27.7915|Microsoft.AspNetCore.Server.Kestrel|ERROR|Connection id "0HKU8178BGM93": An unhandled exception was thrown by the application. Status code cannot be set, response has already started.
+2016-08-19 16:21:27.7915|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 33.9326ms 200  
+2016-08-19 16:21:27.7915|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8178BGM93" disconnecting. 
+2016-08-19 16:21:27.7915|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8178BGM93" sending FIN. 
+2016-08-19 16:21:27.7915|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8178BGM93" sent FIN with status "0". 
+2016-08-19 16:21:27.7915|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8178BGM93" stopped. 
+2016-08-19 16:21:33.7393|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8178BGM94" started. 
+2016-08-19 16:21:33.7393|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:8888/   
+2016-08-19 16:21:33.7393|Microsoft.AspNetCore.Builder.RouterMiddleware|DEBUG|Request did not match any routes. 
+2016-08-19 16:21:33.7713|Microsoft.AspNetCore.Server.Kestrel|ERROR|Connection id "0HKU8178BGM94": An unhandled exception was thrown by the application. Status code cannot be set, response has already started.
+2016-08-19 16:21:33.7713|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 31.402ms 200  
+2016-08-19 16:21:33.7713|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8178BGM94" disconnecting. 
+2016-08-19 16:21:33.7713|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8178BGM94" sending FIN. 
+2016-08-19 16:21:33.7713|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8178BGM94" sent FIN with status "0". 
+2016-08-19 16:21:33.7713|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8178BGM94" stopped. 
+2016-08-19 16:21:35.2900|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8178BGM95" started. 
+2016-08-19 16:21:35.2900|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8178BGM96" started. 
+2016-08-19 16:21:35.2900|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:8888/api/user/1   
+2016-08-19 16:21:35.3080|Microsoft.AspNetCore.Routing.Tree.TreeRouter|DEBUG|Request successfully matched the route with name '' and template 'api/User/{id}'. 
+2016-08-19 16:21:35.3340|Microsoft.AspNetCore.Mvc.Internal.ActionSelector|DEBUG|Action 'ConsoleApplication.UserController.Put (WebApiCoreTest4)' with id '4ba96d36-7e32-4c9a-84af-25d454994b03' did not match the constraint 'Microsoft.AspNetCore.Mvc.Internal.HttpMethodActionConstraint' 
+2016-08-19 16:21:35.3340|Microsoft.AspNetCore.Mvc.Internal.ActionSelector|DEBUG|Action 'ConsoleApplication.UserController.Delete (WebApiCoreTest4)' with id '0d6e81b3-ecc3-4a2e-8824-9f90d9e7a87d' did not match the constraint 'Microsoft.AspNetCore.Mvc.Internal.HttpMethodActionConstraint' 
+2016-08-19 16:21:35.3680|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|DEBUG|Executing action ConsoleApplication.UserController.Get (WebApiCoreTest4) 
+2016-08-19 16:21:35.5370|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|INFO|Executing action method ConsoleApplication.UserController.Get (WebApiCoreTest4) with arguments (1) - ModelState is Valid 
+2016-08-19 16:21:35.5370|ConsoleApplication.UserController|INFO|This is Information Log! 
+2016-08-19 16:21:35.5370|ConsoleApplication.UserController|WARN|This is Warning Log! 
+2016-08-19 16:21:35.5370|ConsoleApplication.UserController|ERROR|This is Error Log! 
+2016-08-19 16:21:35.5370|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|DEBUG|Executed action method ConsoleApplication.UserController.Get (WebApiCoreTest4), returned result Microsoft.AspNetCore.Mvc.ObjectResult. 
+2016-08-19 16:21:35.5690|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|DEBUG|No information found on request to perform content negotiation. 
+2016-08-19 16:21:35.5690|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|DEBUG|Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.JsonOutputFormatter' and content type 'application/json' to write the response. 
+2016-08-19 16:21:35.5690|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|INFO|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext. 
+2016-08-19 16:21:35.6330|Microsoft.AspNetCore.Server.Kestrel|ERROR|Connection id "0HKU8178BGM95": An unhandled exception was thrown by the application. Headers are read-only, response has already started.
+2016-08-19 16:21:35.6330|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 337.6797ms 200  
+2016-08-19 16:21:35.6330|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8178BGM95" disconnecting. 
+2016-08-19 16:21:35.6330|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8178BGM95" sending FIN. 
+2016-08-19 16:21:35.6330|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8178BGM95" sent FIN with status "0". 
+2016-08-19 16:21:35.6330|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8178BGM95" stopped. 
+2016-08-19 16:22:05.6601|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8178BGM97" started. 
+2016-08-19 16:22:05.6601|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:8888/api/user/1   
+2016-08-19 16:22:05.6601|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8178BGM96" received FIN. 
+2016-08-19 16:22:05.6851|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8178BGM96" disconnecting. 
+2016-08-19 16:22:05.6851|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8178BGM96" sending FIN. 
+2016-08-19 16:22:05.6891|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8178BGM96" sent FIN with status "0". 
+2016-08-19 16:22:05.6851|Microsoft.AspNetCore.Routing.Tree.TreeRouter|DEBUG|Request successfully matched the route with name '' and template 'api/User/{id}'. 
+2016-08-19 16:22:05.6891|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8178BGM96" stopped. 
+2016-08-19 16:22:05.6891|Microsoft.AspNetCore.Mvc.Internal.ActionSelector|DEBUG|Action 'ConsoleApplication.UserController.Put (WebApiCoreTest4)' with id '4ba96d36-7e32-4c9a-84af-25d454994b03' did not match the constraint 'Microsoft.AspNetCore.Mvc.Internal.HttpMethodActionConstraint' 
+2016-08-19 16:22:05.6891|Microsoft.AspNetCore.Mvc.Internal.ActionSelector|DEBUG|Action 'ConsoleApplication.UserController.Delete (WebApiCoreTest4)' with id '0d6e81b3-ecc3-4a2e-8824-9f90d9e7a87d' did not match the constraint 'Microsoft.AspNetCore.Mvc.Internal.HttpMethodActionConstraint' 
+2016-08-19 16:22:05.6891|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|DEBUG|Executing action ConsoleApplication.UserController.Get (WebApiCoreTest4) 
+2016-08-19 16:22:05.6891|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|INFO|Executing action method ConsoleApplication.UserController.Get (WebApiCoreTest4) with arguments (1) - ModelState is Valid 
+2016-08-19 16:22:05.6891|ConsoleApplication.UserController|INFO|This is Information Log! 
+2016-08-19 16:22:05.6891|ConsoleApplication.UserController|WARN|This is Warning Log! 
+2016-08-19 16:22:05.6891|ConsoleApplication.UserController|ERROR|This is Error Log! 
+2016-08-19 16:22:05.6891|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|DEBUG|Executed action method ConsoleApplication.UserController.Get (WebApiCoreTest4), returned result Microsoft.AspNetCore.Mvc.ObjectResult. 
+2016-08-19 16:22:05.6891|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|DEBUG|No information found on request to perform content negotiation. 
+2016-08-19 16:22:05.6891|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|DEBUG|Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.JsonOutputFormatter' and content type 'application/json' to write the response. 
+2016-08-19 16:22:05.6891|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|INFO|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext. 
+2016-08-19 16:22:05.7281|Microsoft.AspNetCore.Server.Kestrel|ERROR|Connection id "0HKU8178BGM97": An unhandled exception was thrown by the application. Headers are read-only, response has already started.
+2016-08-19 16:22:05.7281|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 66.8814ms 200  
+2016-08-19 16:22:05.7281|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8178BGM97" disconnecting. 
+2016-08-19 16:22:05.7281|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8178BGM97" sending FIN. 
+2016-08-19 16:22:05.7281|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8178BGM97" sent FIN with status "0". 
+2016-08-19 16:22:05.7281|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8178BGM97" stopped. 
+2016-08-19 16:22:53.9957|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting starting 
+2016-08-19 16:22:54.1407|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting started 
+2016-08-19 16:22:54.3367|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8182AVQ02" started. 
+2016-08-19 16:22:54.3367|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8182AVQ01" started. 
+2016-08-19 16:22:54.4907|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:8888/   
+2016-08-19 16:22:54.7607|Microsoft.AspNetCore.Builder.RouterMiddleware|DEBUG|Request did not match any routes. 
+2016-08-19 16:23:13.2033|Microsoft.AspNetCore.Server.Kestrel|ERROR|Connection id "0HKU8182AVQ01": An unhandled exception was thrown by the application. Status code cannot be set, response has already started.
+2016-08-19 16:23:13.2143|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 18749.214ms 200  
+2016-08-19 16:23:13.2243|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8182AVQ01" disconnecting. 
+2016-08-19 16:23:13.2243|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8182AVQ01" sending FIN. 
+2016-08-19 16:23:13.2243|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8182AVQ01" sent FIN with status "0". 
+2016-08-19 16:23:13.2243|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8182AVQ01" stopped. 
+2016-08-19 16:23:13.3593|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8182AVQ03" started. 
+2016-08-19 16:23:13.3613|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8182AVQ02" received FIN. 
+2016-08-19 16:23:13.3613|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8182AVQ02" disconnecting. 
+2016-08-19 16:23:13.3613|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:8888/   
+2016-08-19 16:23:13.3613|Microsoft.AspNetCore.Builder.RouterMiddleware|DEBUG|Request did not match any routes. 
+2016-08-19 16:23:13.3613|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8182AVQ02" sending FIN. 
+2016-08-19 16:23:15.0312|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8182AVQ02" sent FIN with status "0". 
+2016-08-19 16:23:16.1979|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8182AVQ02" stopped. 
+2016-08-19 16:23:16.2049|Microsoft.AspNetCore.Server.Kestrel|ERROR|Connection id "0HKU8182AVQ03": An unhandled exception was thrown by the application. Status code cannot be set, response has already started.
+2016-08-19 16:23:16.2049|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 2846.0105ms 200  
+2016-08-19 16:23:16.2049|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8182AVQ03" disconnecting. 
+2016-08-19 16:23:16.2049|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8182AVQ03" sending FIN. 
+2016-08-19 16:23:16.2049|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8182AVQ03" sent FIN with status "0". 
+2016-08-19 16:23:16.2049|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8182AVQ03" stopped. 
+2016-08-19 16:23:21.2185|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU8182AVQ04" started. 
+2016-08-19 16:23:21.2225|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:8888/   
+2016-08-19 16:23:21.2225|Microsoft.AspNetCore.Builder.RouterMiddleware|DEBUG|Request did not match any routes. 
+2016-08-19 16:24:20.0806|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting starting 
+2016-08-19 16:24:20.2236|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting started 
+2016-08-19 16:24:20.4196|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU818RVURFL" started. 
+2016-08-19 16:24:20.4196|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU818RVURFK" started. 
+2016-08-19 16:24:20.5876|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:8888/   
+2016-08-19 16:24:20.6376|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 73.8357ms 200  
+2016-08-19 16:24:20.6456|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU818RVURFK" completed keep alive response. 
+2016-08-19 16:24:20.9306|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:8888/favicon.ico   
+2016-08-19 16:24:20.9306|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 2.5056ms 200  
+2016-08-19 16:24:20.9306|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU818RVURFK" completed keep alive response. 
+2016-08-19 16:24:28.1855|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU818RVURFM" started. 
+2016-08-19 16:24:28.1855|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU818RVURFN" started. 
+2016-08-19 16:24:28.1945|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:8888/api/user/1   
+2016-08-19 16:24:28.1945|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 2.432ms 200  
+2016-08-19 16:24:28.1945|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU818RVURFK" completed keep alive response. 
+2016-08-19 16:24:28.2975|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:8888/favicon.ico   
+2016-08-19 16:24:28.3005|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 2.6132ms 200  
+2016-08-19 16:24:28.3005|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU818RVURFK" completed keep alive response. 
+2016-08-19 16:24:31.1689|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU818RVURFL" received FIN. 
+2016-08-19 16:24:31.1689|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU818RVURFL" disconnecting. 
+2016-08-19 16:24:31.1689|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU818RVURFL" sending FIN. 
+2016-08-19 16:24:31.1758|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:8888/api/user/1   
+2016-08-19 16:24:31.1758|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 3.6079ms 200  
+2016-08-19 16:24:31.1758|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU818RVURFK" completed keep alive response. 
+2016-08-19 16:24:31.1758|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU818RVURFL" sent FIN with status "0". 
+2016-08-19 16:24:31.1758|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU818RVURFL" stopped. 
+2016-08-19 16:24:31.2819|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:8888/favicon.ico   
+2016-08-19 16:24:31.2849|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 2.8559ms 200  
+2016-08-19 16:24:31.2849|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU818RVURFK" completed keep alive response. 
+2016-08-19 16:33:40.0783|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting starting 
+2016-08-19 16:33:40.2153|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting started 
+2016-08-19 16:33:40.4353|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU81E2SLONR" started. 
+2016-08-19 16:33:40.6103|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:8888/   
+2016-08-19 16:33:40.8993|Microsoft.AspNetCore.Builder.RouterMiddleware|DEBUG|Request did not match any routes. 
+2016-08-19 16:33:40.9133|ConsoleApplication.VisitLogMiddleware|INFO|VisitLog: Url: /,
+Headers: [{"Connection":"keep-alive"},{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"},{"Accept-Encoding":"gzip, deflate, sdch"},{"Accept-Language":"zh-CN,zh;q=0.8"},{"Host":"localhost:8888"},{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36"},{"Upgrade-Insecure-Requests":"1"}],
+Method: GET,
+RequestBody: ,
+ExcuteStartTime: 2016-08-19 16:33:40.634,
+ExcuteStartTime: 2016-08-19 16:33:40.906 
+2016-08-19 16:33:40.9233|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 340.8325ms 404  
+2016-08-19 16:33:40.9603|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU81E2SLONR" completed keep alive response. 
+2016-08-19 16:33:43.0597|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:8888/api/user/1   
+2016-08-19 16:33:43.0727|Microsoft.AspNetCore.Routing.Tree.TreeRouter|DEBUG|Request successfully matched the route with name '' and template 'api/User/{id}'. 
+2016-08-19 16:33:43.0977|Microsoft.AspNetCore.Mvc.Internal.ActionSelector|DEBUG|Action 'ConsoleApplication.UserController.Put (WebApiCoreTest4)' with id 'b07780c9-b23e-4bc5-b1b9-174cad173803' did not match the constraint 'Microsoft.AspNetCore.Mvc.Internal.HttpMethodActionConstraint' 
+2016-08-19 16:33:43.0977|Microsoft.AspNetCore.Mvc.Internal.ActionSelector|DEBUG|Action 'ConsoleApplication.UserController.Delete (WebApiCoreTest4)' with id '6dd4df94-eccc-4612-9afd-d0c6a36aa7df' did not match the constraint 'Microsoft.AspNetCore.Mvc.Internal.HttpMethodActionConstraint' 
+2016-08-19 16:33:43.1317|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|DEBUG|Executing action ConsoleApplication.UserController.Get (WebApiCoreTest4) 
+2016-08-19 16:33:43.2987|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|INFO|Executing action method ConsoleApplication.UserController.Get (WebApiCoreTest4) with arguments (1) - ModelState is Valid 
+2016-08-19 16:33:51.2205|ConsoleApplication.UserController|INFO|This is Information Log! 
+2016-08-19 16:33:52.5608|ConsoleApplication.UserController|WARN|This is Warning Log! 
+2016-08-19 16:33:53.4188|ConsoleApplication.UserController|ERROR|This is Error Log! 
+2016-08-19 16:33:53.5649|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|DEBUG|Executed action method ConsoleApplication.UserController.Get (WebApiCoreTest4), returned result Microsoft.AspNetCore.Mvc.ObjectResult. 
+2016-08-19 16:33:53.5909|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|DEBUG|No information found on request to perform content negotiation. 
+2016-08-19 16:33:53.5959|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|DEBUG|Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.JsonOutputFormatter' and content type 'application/json' to write the response. 
+2016-08-19 16:33:53.5959|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|INFO|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext. 
+2016-08-19 16:33:53.8119|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|INFO|Executed action ConsoleApplication.UserController.Get (WebApiCoreTest4) in 10675.7393ms 
+2016-08-19 16:33:53.8169|ConsoleApplication.VisitLogMiddleware|INFO|VisitLog: Url: /api/user/1,
+Headers: [{"Cache-Control":"max-age=0"},{"Connection":"keep-alive"},{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"},{"Accept-Encoding":"gzip, deflate, sdch"},{"Accept-Language":"zh-CN,zh;q=0.8"},{"Host":"localhost:8888"},{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36"},{"Upgrade-Insecure-Requests":"1"}],
+Method: GET,
+RequestBody: ,
+ExcuteStartTime: 2016-08-19 16:33:43.060,
+ExcuteStartTime: 2016-08-19 16:33:53.813 
+2016-08-19 16:33:53.8169|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 10759.9815ms 200 application/json; charset=utf-8 
+2016-08-19 16:33:53.8169|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU81E2SLONR" completed keep alive response. 
+2016-08-19 16:36:16.6137|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:8888/api/user/1   
+2016-08-19 16:36:56.2059|Microsoft.AspNetCore.Routing.Tree.TreeRouter|DEBUG|Request successfully matched the route with name '' and template 'api/User/{id}'. 
+2016-08-19 16:36:56.2059|Microsoft.AspNetCore.Mvc.Internal.ActionSelector|DEBUG|Action 'ConsoleApplication.UserController.Put (WebApiCoreTest4)' with id 'b07780c9-b23e-4bc5-b1b9-174cad173803' did not match the constraint 'Microsoft.AspNetCore.Mvc.Internal.HttpMethodActionConstraint' 
+2016-08-19 16:36:56.2059|Microsoft.AspNetCore.Mvc.Internal.ActionSelector|DEBUG|Action 'ConsoleApplication.UserController.Delete (WebApiCoreTest4)' with id '6dd4df94-eccc-4612-9afd-d0c6a36aa7df' did not match the constraint 'Microsoft.AspNetCore.Mvc.Internal.HttpMethodActionConstraint' 
+2016-08-19 16:36:56.2059|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|DEBUG|Executing action ConsoleApplication.UserController.Get (WebApiCoreTest4) 
+2016-08-19 16:36:56.2369|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|INFO|Executing action method ConsoleApplication.UserController.Get (WebApiCoreTest4) with arguments (1) - ModelState is Valid 
+2016-08-19 16:36:56.2369|ConsoleApplication.UserController|INFO|This is Information Log! 
+2016-08-19 16:36:56.2369|ConsoleApplication.UserController|WARN|This is Warning Log! 
+2016-08-19 16:36:56.2369|ConsoleApplication.UserController|ERROR|This is Error Log! 
+2016-08-19 16:36:56.2369|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|DEBUG|Executed action method ConsoleApplication.UserController.Get (WebApiCoreTest4), returned result Microsoft.AspNetCore.Mvc.ObjectResult. 
+2016-08-19 16:36:56.2369|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|DEBUG|No information found on request to perform content negotiation. 
+2016-08-19 16:36:56.2369|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|DEBUG|Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.JsonOutputFormatter' and content type 'application/json' to write the response. 
+2016-08-19 16:36:56.2369|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|INFO|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext. 
+2016-08-19 16:36:56.2529|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|INFO|Executed action ConsoleApplication.UserController.Get (WebApiCoreTest4) in 40.4354ms 
+2016-08-19 16:36:56.2529|ConsoleApplication.VisitLogMiddleware|INFO|VisitLog: Url: /api/user/1,
+Headers: [{"Cache-Control":"max-age=0"},{"Connection":"keep-alive"},{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"},{"Accept-Encoding":"gzip, deflate, sdch"},{"Accept-Language":"zh-CN,zh;q=0.8"},{"Host":"localhost:8888"},{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36"},{"Upgrade-Insecure-Requests":"1"}],
+Method: GET,
+RequestBody: ,
+ExcuteStartTime: 2016-08-19 16:36:56.205,
+ExcuteStartTime: 2016-08-19 16:36:56.253 
+2016-08-19 16:36:56.2529|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 39648.1795ms 200 application/json; charset=utf-8 
+2016-08-19 16:36:56.2679|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HKU81E2SLONR" completed keep alive response. 
