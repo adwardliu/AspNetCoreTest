@@ -1,0 +1,5 @@
+{
+    "ConnectionStrings":{
+        "SqlServerConnection" : "Server=(LocalDb)\MsSqlLocalDb;Database=EFCoreDb;AttachDBFilename=|DataDirectory|\EFCoreDb.mdf;Trusted_Connection=True;"
+    }
+}
